@@ -21,11 +21,9 @@ button {
   font-family: "Josefin Sans", sans-serif;
   font-size: 1.5em;
   background-color: ghostwhite;
-
 }
 
 button:hover {
   background-color: cornflowerblue;
   transition: 2s;
-
 }
